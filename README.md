@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Eric. I like to play guitar and write code!  
 <!--
 **duojet2ez/duojet2ez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
